@@ -1,5 +1,7 @@
 # webXminer
 
+WEBX is a virtual proof-of-work and DAO project running on the EOS main network. To participate in this project, you only need to continuously send 0.01 EOS to the smart contract, and can obtain one ten-thousandth of the token in the token pool. The token pool is issued from the token smart contract 40 tokens every second and halved every 4 years. The EOS received by the smart contract will be accumulated in the account controlled by the smart contract, triggered by an algorithm, and repurchased on the decentralized exchanges.
+
 1. (https://webxminer.com/) This is a miner that supports the scatter wallet protocol.
 
 2. Mine WEBX with Nodejs.
